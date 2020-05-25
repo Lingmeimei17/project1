@@ -93,12 +93,12 @@ a:hover {#ff0}
 
 .headright {
     float:center;
-    width: 100%;
+    width: 60%;
 }
 
 .form-inside {
     width: 25%;
-    float: right;
+    float: center;
     display: inline-block;
 }
 
