@@ -92,18 +92,13 @@ a:hover {#ff0}
 }
 
 .headright {
-    float:right;
-    width: 60%;
+    float:center;
+    width: 100%;
 }
-.headleft {
-    float:left;
-    width: 50%;
-}
-
 
 .form-inside {
     width: 25%;
-    float: left;
+    float: center;
     display: inline-block;
 }
 
