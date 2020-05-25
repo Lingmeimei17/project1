@@ -102,8 +102,7 @@ a:hover {#ff0}
 
 
 .form-inside {
-    vertical-align: middle;
-    width: 100%;
+    width: 25%;
     float: left;
     display: inline-block;
 }
